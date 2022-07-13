@@ -1,2 +1,2 @@
 # Estacionamento-com-typescript
-Sistema de estacionamento construído com typescript.
+Sistema de registro de entradas de veículos para estacionamento construído com typescript.
